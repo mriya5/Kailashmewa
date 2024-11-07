@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <div className='header'>
         <div className='leftheader'>
-            <img style={{height:'70px', width:"150px", borderRadius:"50%"}} src='/kailash.png' alt="Screen logo"/>
+            <img className='logo' src='/kailash.png' alt="Screen logo"/>
         </div>
         <div className='rightheader'> 
             <div className='upperheader'>
