@@ -1,0 +1,91 @@
+.home{
+    height: 40%;
+    width: 100%;
+    padding:8% 0 ;
+    background-image: url('https://media.istockphoto.com/id/805574692/photo/row-of-jars-with-peanuts-and-seeds-at-grocery-store-bio-food-concept.jpg?s=612x612&w=0&k=20&c=VAT6YziaYIJNdGx_nG7G3gHwi1308_pRGL2o57XLfPc=');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    h1{
+        font-size: 80px;
+        color: white;
+        margin: 0;
+        padding: 0;
+    }
+    p{
+        margin: 0;
+        padding: 0;
+        color: white;
+    };
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    
+}
+.varieties{
+    padding: 20px;
+    img{
+        height: 200px;
+        width: 200px;
+        border-radius: 20%;
+    };
+}
+.variety{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    img{
+        height: 250px;
+        width: 250px;
+    };
+    h3{
+        font-size: 20px;
+    }
+    p{
+        font-weight: 300;
+    }
+    button{
+        background-color: greenyellow;
+        border-radius: 20px;
+        padding: 10px;
+        font-weight: bold;
+        border: none;
+    }
+}
+.video{
+    background-image: url('https://media.istockphoto.com/id/1553484934/photo/happy-extended-indian-family-eating-together-outdoors-in-house-backyard-grandparents-parents.jpg?s=612x612&w=0&k=20&c=mn_MiA2SRRWC4JWajTCaXbzesIZSQVo4yPnjmerdp8E=');
+    padding: 15%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 5%;
+}
+.feedback{
+    display: flex;
+    flex-direction: row;
+    /* height: 500px;
+    width: 500px; */
+    padding: 2%;
+    overflow: scroll;
+    scrollbar-width: none;
+    div{
+        padding: 2%;
+        border: 2px solid black;
+        border-radius: 8px;
+        margin-left: 20px;
+        width: 200px;
+        height: 300px;
+    }
+}
+.foot{
+    height: 30%;
+    width: 100%;
+    padding: 10% 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://media.istockphoto.com/id/1705756007/photo/multi-generation-asian-family-enjoying-lunch-together-at-home.jpg?s=612x612&w=0&k=20&c=ZzTYSwcqEFBBxO0_ZH1I0xRr9oMefAU_jGKwqKgFjH8=');
+}

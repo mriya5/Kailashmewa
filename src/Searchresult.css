@@ -1,0 +1,39 @@
+.searchbar{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.filters{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid black; */
+    padding: 1.5%;
+    background-color: rgb(236, 247, 204);
+    border-radius: 8px;
+}
+.searched{
+    height: 100%;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:16px;
+}
+.searcheditems{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    padding: 2%;
+    h5{
+        font-weight: bold;
+    }
+    p{
+        font-size: 15px;
+    }
+    img{
+        height: 100px;
+        width: 100px;
+        border-radius:8px;
+    }
+}
