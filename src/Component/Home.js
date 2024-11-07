@@ -129,42 +129,42 @@ export default function Home() {
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/3710/3710844.png'/>
           <h3>Pertyu</h3>
-          <p>asdfghjkesdrtyfugihojpkgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n gvhbj kg f</p>
+          <p>asdfghj kesdrtyfu gihojp kgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n </p>
         </div>
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/11510/11510822.png'/>
           <h3>Tertyu</h3>
-          <p>asdfghjkesdrtyfugihojpkgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n gvhbj kg f</p>
+          <p>asdfghj kesdrtyfu gihojp kgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n </p>
         </div>
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/3233/3233515.png'/>
           <h3>Yertyu</h3>
-          <p>asdfghjkesdrtyfugihojpkgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n gvhbj kg f</p>
+          <p>asdfghj kesdrtyfu gihojp kgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n </p>
         </div>
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/6889/6889369.png'/>
           <h3>Qertyu</h3>
-          <p>asdfghjkesdrtyfugihojpkgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n gvhbj kg f</p>
+          <p>asdfghj kesdrtyfu gihojp kgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n </p>
         </div>
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/11829/11829347.png'/>
           <h3>Aertyu</h3>
-          <p>asdfghjkesdrtyfugihojpkgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n gvhbj kg f</p>
+          <p>asdfghj kesdrtyfu gihojp kgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n </p>
         </div>
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/4515/4515630.png'/>
           <h3>Dertyu</h3>
-          <p>asdfghjkesdrtyfugihojpkgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n gvhbj kg f</p>
+          <p>asdfghj kesdrtyfu gihojp kgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n </p>
         </div>
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/3346/3346158.png'/>
           <h3>Hertyu</h3>
-          <p>asdfghjkesdrtyfugihojpkgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n gvhbj kg f</p>
+          <p>asdfghj kesdrtyfu gihojp kgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n </p>
         </div>
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/6233/6233179.png'/>
           <h3>Lertyu</h3>
-          <p>asdfghjkesdrtyfugihojpkgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n gvhbj kg f</p>
+          <p>asdfghj kesdrtyfu gihojp kgfxcvbn cxfcgvhbjnkldfghjkv fghj jhgfghj jjxfc ghjh fdfg hc fvn n </p>
         </div>
       </div>
       <div className='foot'>

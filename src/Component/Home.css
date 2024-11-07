@@ -89,3 +89,27 @@
     background-size: cover;
     background-image: url('https://media.istockphoto.com/id/1705756007/photo/multi-generation-asian-family-enjoying-lunch-together-at-home.jpg?s=612x612&w=0&k=20&c=ZzTYSwcqEFBBxO0_ZH1I0xRr9oMefAU_jGKwqKgFjH8=');
 }
+@media (max-width:528px){
+    .home{
+        padding: 4%;
+    }
+    .products{
+        width: 100%;
+        padding: 4%;
+    }
+    .video{
+        width: 100%;
+        padding: 4%;
+    }
+    .feedback{
+        width: 100%;
+        padding: 4%;
+    }
+    .foot{
+        width: 100%;
+        padding: 4%;
+    }
+    .footer{
+        width: 100%;
+    }
+}
