@@ -2,7 +2,12 @@ import React from 'react'
 import './Home.css'
 import Header from './Header'
 import Footer from './Footer'
+import { useNavigate } from 'react-router-dom'
 export default function Home() {
+  const navigate = useNavigate();
+  const handleMore=()=>{
+    navigate(`/search`);
+  }
   return (
     <div>
       <Header/>
@@ -44,10 +49,10 @@ export default function Home() {
           <img src='https://media.istockphoto.com/id/1623383661/photo/fox-nuts-also-known-as-makhana-lotus-seeds-kamal-ka-phool-indian-fried-snacks-concept.jpg?s=612x612&w=0&k=20&c=Hrez7HBua4GOwNdYbFmyZcS9Q0BWUrT48sZBclLq5FA='/>
           <h5>Fox Nut</h5>
         </div>
-        <div style={{padding:"10% 5%",borderRadius: "20px"}}>
+        {/* <div style={{padding:"10% 5%",borderRadius: "20px"}}>
           <img style={{width: '30px', height:'30px'}}src='https://cdn-icons-png.flaticon.com/128/11530/11530073.png'/>
           <h5 style={{borderRadius:"20px", backgroundColor:"green", width:"fit-content", padding:"10%", color:'white'}}>SeeMore...</h5>
-        </div>
+        </div> */}
       </div>
       <div>
         <h1>Best Seller</h1>
@@ -115,7 +120,7 @@ export default function Home() {
           <p>Price: Contact Us </p>
           <button>Order Now</button>
         </div>
-        <div style={{padding:"10% 5%",borderRadius: "20px"}}>
+        <div style={{padding:"10% 5%",borderRadius: "20px"}} onClick={handleMore}>
           <img style={{width: '30px', height:'30px'}}src='https://cdn-icons-png.flaticon.com/128/11530/11530073.png'/>
           <h5 style={{borderRadius:"20px", backgroundColor:"green", width:"fit-content", padding:"10%", color:'white'}}>SeeMore...</h5>
         </div>
@@ -124,7 +129,7 @@ export default function Home() {
       <div className='video'>
         <h1>Buy a healthy habit for your family</h1>
       </div>
-      <h3>Happy Customer</h3>
+      <h1>Happy Customer</h1>
       <div className='feedback'>
         <div>
           <img src='https://cdn-icons-png.flaticon.com/128/3710/3710844.png'/>
